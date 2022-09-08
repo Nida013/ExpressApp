@@ -1,0 +1,49 @@
+<div>
+    <AppHeader />
+    <div class="row">
+        <div class="col-6">
+            <form @submit.prevent = "submit">
+            <div class="form-group">
+                <label id="countryName" for="countryName">Country Name</label>  
+                <input type="text" class="form-control" :style="{'border': $v.countryName.$error || this.apiError.includes('Country Name already exist') ? '2px solid red' : '' }"  v-model="countryName" />
+            </div>
+            <span class="text-danger" v-if="$v.countryName.$dirty && !this.$v.countryName.required">Please enter Country Name.</span>    
+            <span class="text-danger" v-if="$v.countryName.$dirty && !this.$v.countryName.minLength">Country Name should have minimum 3 characters.</span>    
+            <span class="text-danger" v-if="$v.countryName.$dirty && !this.$v.countryName.maxLength">Country Name should have maximum 20 characters.</span>    
+            <span class="text-danger" v-if="$v.countryName.$dirty && !this.$v.countryName.alpha">Please enter valid Country Name</span>    
+            <span class="text-danger" v-if="$v.countryName.$dirty && this.apiError != null && this.apiError.includes('Country Name already exist')">Country Name should be unique</span>    
+          
+             <div class="form-group">
+                <label>Continent</label>
+            <select class="form-control" v-model="continent" name="continent" :style="{'border': $v.continent.$error ? '2px solid red' : '' }">
+                <option  v-for="getcontinent in continents" :value="getcontinent">{{getcontinent}} </option>
+              </select>
+            <span class="text-danger" v-if="$v.continent.$dirty && !this.$v.continent.required">Please enter Continent</span>    
+              </div>
+
+
+            <div class="form-group">
+                <label>Country Image</label><br>
+                <input type="file" class="form-control" v-on:change="getFileSize($event)" :style="{'border': $v.flag.$error ? '2px solid red' : '' }" />
+            </div>          
+              <span class="text-danger flag" v-if="$v.flag.$dirty && !this.$v.flag.required">Please upload File Image</span>
+              <span class="text-danger flag" v-if="$v.flag.$dirty && !this.$v.flag.mustBeJpgorPng">File must be jpg or png</span>    
+              <span class="text-danger flag" v-if="fileSizeError">File size must be smaller than 4MB</span>
+         
+
+              <div class="form-group" >
+                <label id="rank" for="rank">Rank</label>  
+                <input type="text" class="form-control" :style="{'border': $v.rank.$error || this.apiError.includes('Rank should be unique')? '2px solid red' : '' }"  v-model="rank" />
+            </div>
+
+              <span class="text-danger" v-if="$v.rank.$dirty && this.apiError != null && this.apiError.includes('Rank should be unique')">Rank should be unique</span>    
+              <span class="text-danger" v-if="$v.rank.$dirty && !this.$v.rank.required">Please enter Rank</span>    
+              <span class="text-danger" v-if="$v.rank.$dirty && !this.$v.rank.numeric">Rank should be numberic</span>    
+             
+              <span class=""></span>
+              <br>
+              <md-button class="md-raised md-primary saveNewCountry" v-on:click="saveNewCountry"> Add Country</md-button>
+            </form>
+            </div>
+    </div>
+</div>

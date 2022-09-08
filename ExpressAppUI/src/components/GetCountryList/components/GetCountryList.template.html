@@ -1,0 +1,24 @@
+<div class="container-fluid">
+    <AppHeader/>
+    <div class="container">
+    <div>
+        <md-field class="mt-0">
+        <md-select v-model="currentValue" @md-selected="getCurrentCountryData(currentValue)" md-dense >
+            <md-option v-for="country in getCountries.countries" v-bind:value="country.name">
+                  {{country.name}}
+            </md-option>
+        </md-select>
+    </md-field>
+    </div>
+    
+    <md-button class="md-raised md-primary" v-on:click="navigateToAddNewCountry"> Add Country</md-button>
+
+    <md-card class="getCountryData" >
+        <md-card-content>
+        <b class="nameSize">{{ getCountry.name.toUpperCase()}}</b>
+        <b class="nameSize"> Rank: {{ getCountry.rank }}</b>
+        <img :src="getCountry.flag" width="150" height="150" />
+        </md-card-content>
+    </md-card> 
+    </div>
+</div>

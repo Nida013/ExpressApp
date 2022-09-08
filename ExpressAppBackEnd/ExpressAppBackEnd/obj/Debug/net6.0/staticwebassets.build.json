@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "whSyXtiBYkPQVEViyG4lTY4IES77d87hDBIOr23qqEs=",
+  "Source": "ExpressAppBackEnd",
+  "BasePath": "_content/ExpressAppBackEnd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,102 @@
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\appsettings.json
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\data\data.json
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\ExpressAppBackEnd.exe
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\ExpressAppBackEnd.deps.json
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\ExpressAppBackEnd.runtimeconfig.json
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\ExpressAppBackEnd.dll
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\ExpressAppBackEnd.pdb
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.csproj.AssemblyReference.cache
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.AssemblyInfoInputs.cache
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.AssemblyInfo.cs
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\scopedcss\bundle\ExpressAppBackEnd.styles.css
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.csproj.CopyComplete
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.dll
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\refint\ExpressAppBackEnd.dll
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.pdb
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.genruntimeconfig.cache
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ref\ExpressAppBackEnd.dll
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\akshay.jadhav\source\repos\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\appsettings.Development.json
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\appsettings.json
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\data\data.json
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\ExpressAppBackEnd.exe
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\ExpressAppBackEnd.deps.json
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\ExpressAppBackEnd.runtimeconfig.json
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\ExpressAppBackEnd.dll
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\ExpressAppBackEnd.pdb
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.csproj.AssemblyReference.cache
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.AssemblyInfoInputs.cache
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.AssemblyInfo.cs
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.csproj.CoreCompileInputs.cache
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.MvcApplicationPartsAssemblyInfo.cs
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.MvcApplicationPartsAssemblyInfo.cache
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\staticwebassets.build.json
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\staticwebassets.development.json
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\scopedcss\bundle\ExpressAppBackEnd.styles.css
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.csproj.CopyComplete
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.dll
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\refint\ExpressAppBackEnd.dll
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.pdb
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.genruntimeconfig.cache
+E:\New\Akshay's Code\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ref\ExpressAppBackEnd.dll
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.dll
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\refint\ExpressAppBackEnd.dll
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.pdb
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\appsettings.json
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\data\data.json
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\ExpressAppBackEnd.exe
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\ExpressAppBackEnd.deps.json
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\ExpressAppBackEnd.runtimeconfig.json
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\ExpressAppBackEnd.dll
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\ExpressAppBackEnd.pdb
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.csproj.AssemblyReference.cache
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.AssemblyInfoInputs.cache
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.AssemblyInfo.cs
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\scopedcss\bundle\ExpressAppBackEnd.styles.css
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.csproj.CopyComplete
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ExpressAppBackEnd.genruntimeconfig.cache
+C:\Users\HP Pavilion\Desktop\Sportz\ExpressAppBackEnd\ExpressAppBackEnd\obj\Debug\net6.0\ref\ExpressAppBackEnd.dll
